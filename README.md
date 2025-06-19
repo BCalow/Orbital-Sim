@@ -18,7 +18,7 @@ Numpy:
 ```pip install numpy```
 
 MatPlotLib:  
-```pip install numpy```
+```pip install matplotlib```
 
 ## Installation
 Clone the repository:  
