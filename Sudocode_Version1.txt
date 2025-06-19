@@ -1,0 +1,19 @@
+Imports
+
+Initialise Figure
+Initialise Axis
+
+object = []
+G = 1
+
+while len(object) < 10
+    #Random x cords, y cords, x velocity, y velocity, mass
+    object.append([randint(1, 100), randint(1, 100), randint(1, 10), randint(1, 10)])
+
+
+for i in object
+    for j in object
+        if i != j
+            math
+
+Print info to screen
